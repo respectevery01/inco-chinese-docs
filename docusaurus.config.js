@@ -115,7 +115,7 @@ const config = {
               },
               {
                 label: 'Solidity',
-                to: '/docs/solidity/intro',
+                to: '/docs/Solidity/intro',
               },
               {
                 label: 'JS SDK',

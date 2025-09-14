@@ -51,7 +51,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/respectevery01/inco-chinese-docs/tree/main/docs',
+            'https://github.com/respectevery01/inco-chinese-docs/tree/main/',
         },
         blog: {
           showReadingTime: true,

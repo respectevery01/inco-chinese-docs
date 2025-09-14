@@ -140,6 +140,23 @@ const config = {
               },
             ],
           },
+          {
+            title: '官方链接',
+            items: [
+              {
+                label: 'Inco 官网',
+                href: 'https://www.inco.org/',
+              },
+              {
+                label: 'GitHub',
+                href: 'https://github.com/Inco-fhevm',
+              },
+              {
+                label: '官方文档',
+                href: 'https://docs.inco.org/home',
+              },
+            ],
+          },
         ],
         copyright: `Copyright © ${new Date().getFullYear()} Inco 中文文档. Built with Docusaurus.`,
       },
